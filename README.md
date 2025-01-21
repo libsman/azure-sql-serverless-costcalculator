@@ -38,8 +38,13 @@ The graph and cost estimation will update automatically.
 # Clone repository
 git clone https://github.com/libsman/azure-sql-serverless-costcalculator.git
 
+# Navigate to cloned directory
+cd azure-sql-serverless-costcalculator
+
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
+
+# Enjoy :)
