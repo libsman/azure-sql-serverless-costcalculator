@@ -24,7 +24,7 @@ Simply visit: [https://libsman.github.io/azure-sql-serverless-costcalculator/](h
 
 ## How to Use
 
-1. **Min vCores**: Set the minimum number of vCores (at least 1/8 of Max vCores)
+1. **Min vCores**: Set the minimum number of vCores
 2. **Max vCores**: Choose the maximum number of vCores
 3. **Active Hours**: Enter the expected active hours per day
 4. **Auto-Pause**: Enable/disable automatic pausing
